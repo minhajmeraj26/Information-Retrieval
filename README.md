@@ -2,6 +2,8 @@
 
 Used NLP and ML to compute the sarcasm used in news headlines
 
+Link (100-dimensional word embeddings of tweets) : https://www.kaggle.com/bertcarremans/glovetwitter27b100dtxt
+
 # DATASET DESCRIPTION:
 
 News Headlines dataset for Sarcasm Detection is collected from two news website. The Onion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are sarcastic). We collect real (and non-sarcastic) news headlines from HuffPost. This new dataset has following advantages over the existing Twitter datasets:
